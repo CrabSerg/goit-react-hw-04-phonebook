@@ -33,6 +33,6 @@ export const AddBtn = styled.button`
 
   &:hover,
   &:focus {
-    background-color: #90ee90;
+    background-color: #acff26;
   }
 `;
